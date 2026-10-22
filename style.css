@@ -632,3 +632,16 @@ main {
     font-size: 2rem;
   }
 }
+
+
+.tutor-photo {
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto 15px;
+    max-width: 100%;
+}
+
+
+
